@@ -1,4 +1,4 @@
-// in .gitignore
+// gitin .gitignore
 node_modules/
 
 .idea/
